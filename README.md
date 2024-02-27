@@ -1,2 +1,2 @@
 # GPU Data structures
-CUDA implementation of Hash Maps
+CUDA implementation of data structures
